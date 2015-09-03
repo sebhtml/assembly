@@ -21,14 +21,9 @@ Interpreters:
 - Perl 5
 
 Python packages (with pip):
-- appdirs
-- argparse
-- httplib2
-- pkg_resources
-- prettytable
-- requests
-- setuptools
-- ssl (built in)
+```bash
+pip install -r requirements.txt
+```
 
 Perl modules (with CPAN http://perl.about.com/od/packagesmodules/qt/perlcpan.htm):
 - Config/Simple.pm
