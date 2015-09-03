@@ -5,7 +5,7 @@ import logging
 import os
 
 import metadata
-from novaclient.v1_1 import client
+from novaclient import client
 from ConfigParser import SafeConfigParser
 
 class CloudMonitor(client.Client):
