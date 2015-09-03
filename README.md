@@ -9,6 +9,14 @@ It currently supports more than 20 assemblers and processing modules.
 
 [REST API](REST_API.md)
 
+
+Development
+-----------
+
+Code changes are contributed by branching the dev branch.
+The maintainer is responsible for merging dev into master.
+
+
 Deploying only the client
 ----------
 
